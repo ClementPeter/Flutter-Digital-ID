@@ -1,2 +1,2 @@
 # Flutter-Digital-ID
-Digital Indentification Mobile Interface
+Digital Identification Mobile Interface
